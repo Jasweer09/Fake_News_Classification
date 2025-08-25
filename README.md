@@ -137,7 +137,8 @@ The classification pipeline, implemented with **scikit-learn**, includes:
     }
 }
 ```
-
+    - _Prediction Page_
+  ![Screenshot](Fake_news_prediction.png)
 ---
 
 ## 🌍 Deployment
